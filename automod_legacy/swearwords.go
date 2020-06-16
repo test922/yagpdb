@@ -56,7 +56,7 @@ var BuiltinSwearWords = map[string]bool{
 	"sex":         true,
 	"shit":        true,
 	"sh1t":        true,
-	"slut":        true,
+	"slut":        false,
 	"smegma":      true,
 	"spunk":       true,
 	"tit":         true,
